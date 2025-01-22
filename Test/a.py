@@ -132,4 +132,4 @@ while True:
          else:
             print('Enter a valid input (1-4 or "exitCode").')
     else:
-        print('Enter a valid number)
+        print('Enter a valid number')
